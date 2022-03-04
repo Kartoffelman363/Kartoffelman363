@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kartoffelman363
+- 👋 "Kaj dogaja?", I’m @Kartoffelman363
 - 👀 I’m interested in cool Beni game project. 
 - 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on cool Beni game
+- 💞️ I’m looking to collaborate on cool Beni game project
 - Please be gentle. 🥺
 
 <!---
